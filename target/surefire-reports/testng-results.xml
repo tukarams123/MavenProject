@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-05T10:53:34 IST" name="Suite" finished-at="2023-12-05T10:53:58 IST" duration-ms="23284">
+    <groups>
+    </groups>
+    <test started-at="2023-12-05T10:53:34 IST" name="Test" finished-at="2023-12-05T10:53:58 IST" duration-ms="23284">
+      <class name="test1.Maven_testclass">
+        <test-method signature="openGoogleMeet()[pri:0, instance:test1.Maven_testclass@31368b99]" started-at="2023-12-05T10:53:34 IST" name="openGoogleMeet" finished-at="2023-12-05T10:53:58 IST" duration-ms="23209" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openGoogleMeet -->
+      </class> <!-- test1.Maven_testclass -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+  <suite started-at="2023-12-05T10:53:58 IST" name="Suite (0)" finished-at="2023-12-05T10:54:16 IST" duration-ms="18014">
+    <groups>
+    </groups>
+    <test started-at="2023-12-05T10:53:58 IST" name="Test" finished-at="2023-12-05T10:54:16 IST" duration-ms="18014">
+      <class name="test1.Maven_testclass2">
+        <test-method signature="openJioCinema()[pri:0, instance:test1.Maven_testclass2@158da8e]" started-at="2023-12-05T10:53:58 IST" name="openJioCinema" finished-at="2023-12-05T10:54:16 IST" duration-ms="18009" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openJioCinema -->
+      </class> <!-- test1.Maven_testclass2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite (0) -->
+</testng-results>
